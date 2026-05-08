@@ -1,10 +1,8 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [QuickLook-4.5.0](./QuickLook-4.5.0)
+- [Zed-x86_64](./Zed-x86_64)
+- [windows-release](./windows-release)
 
 ---
 
